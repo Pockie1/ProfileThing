@@ -17,6 +17,6 @@ languages I'm learning
 Software I use
 
 
-[![software i use](https://skillicons.dev/icons?i=unity,visualstudio,robloxstudio,idea)](https://skillicons.dev)
+[![software i use](https://skillicons.dev/icons?i=unity,vscode,visualstudio,robloxstudio,idea)](https://skillicons.dev)
 
 
