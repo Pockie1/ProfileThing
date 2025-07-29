@@ -11,7 +11,7 @@ languages I know
 languages I'm learning
 
 
-[![languages I know](https://skillicons.dev/icons?i=java=light)](https://skillicons.dev)
+[![languages I know](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 
 
 Software I use
